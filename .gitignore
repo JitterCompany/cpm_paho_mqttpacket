@@ -1,0 +1,7 @@
+*.DS_Store
+*.swp
+*.swo
+*.orig
+tags
+external
+paho_mqtt
